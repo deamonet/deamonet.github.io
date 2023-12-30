@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Deamonet Site</title>
+    <link>https://deamonet.github.io/posts/</link>
+    <description>Recent content in Posts on Deamonet Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 30 Dec 2023 16:20:47 +0800</lastBuildDate>
+    <atom:link href="https://deamonet.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nginx中的Rewrite的重定向配置与实践</title>
+      <link>https://deamonet.github.io/posts/nginx%E4%B8%AD%E7%9A%84rewrite%E7%9A%84%E9%87%8D%E5%AE%9A%E5%90%91%E9%85%8D%E7%BD%AE%E4%B8%8E%E5%AE%9E%E8%B7%B5/</link>
+      <pubDate>Sat, 30 Dec 2023 16:20:47 +0800</pubDate>
+      <guid>https://deamonet.github.io/posts/nginx%E4%B8%AD%E7%9A%84rewrite%E7%9A%84%E9%87%8D%E5%AE%9A%E5%90%91%E9%85%8D%E7%BD%AE%E4%B8%8E%E5%AE%9E%E8%B7%B5/</guid>
+      <description>Nginx中的Rewrite的重定向配置与实践 2019-05-01 00:03 龙恩0707 阅读(120410) 评论(0) 编辑 收藏 举报 一：理解地址重写 与 地址转发的含义。 二</description>
+    </item>
+  </channel>
+</rss>
